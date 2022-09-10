@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<h1>tu dien</h1>-->
+<!--<input id="ht" type="text">-->
+<!--<button id="tv" onclick="tip">an vao day</button>-->
+<script>
+    let tienganh = ["one", "two", "thank you"];
+    let tv =["mot","hai","cam on"]
+
+    function findByName() {
+        let keyword = window.prompt("Moi nhap vao")
+        for (let i = 0; i < tienganh.length; i++) {
+            if (tienganh[i] === keyword) return i;
+        }
+        return -1;
+        transLate()
+    }
+
+    function transLate() {
+        let i = findByName();
+        if (i == -1) {
+            alert('khong tim thay');
+        } else {
+            alert("tu tv tuong ung la: " + tv[i])
+
+        }
+    }
+    transLate()
+</script>
+</body>
+</html>

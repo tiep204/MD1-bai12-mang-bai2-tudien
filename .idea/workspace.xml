@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ec1e9d9-9a5e-49ee-8932-effdf685111b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../...html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai1-noi-mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ffgfh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hgf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inh tinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptrinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../da.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inndex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/bai11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc-hanh1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc-hanh2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc-hanh3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc-hanh4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thuc-hanh5.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EUYw3BGIub0IajonTmjie7pvrn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/MD-1/bai game",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec1e9d9-9a5e-49ee-8932-effdf685111b" name="Changes" comment="" />
+      <created>1662651864727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662651864727</updated>
+      <workItem from="1662651865953" duration="3842000" />
+      <workItem from="1662655948678" duration="1445000" />
+      <workItem from="1662684994908" duration="11168000" />
+      <workItem from="1662704845388" duration="4877000" />
+      <workItem from="1662804079907" duration="1745000" />
+      <workItem from="1662818545368" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
